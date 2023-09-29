@@ -9,4 +9,6 @@ Objectives:
 4. Conduct the prediction tasks using the linear model. <br>
 5. Interpret the result of the predictions.<br>
 6. Compare the results of the model with the initial dataset vs the dataset reduced.<br>
-7. Conclusions.<br>
+7. Conclusions.<br>}
+
+[Stress Monitoring Using Wearable Sensors Study and Dataset Link Here](https://www.mdpi.com/1424-8220/22/21/8135)
